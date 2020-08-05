@@ -25,3 +25,4 @@ Research out why word embeddings worked better for the lecture notebook than on 
 I think simply word embeddings are text coverted to numbers. and it is easier for a computer to read numbers than text since computers speak in numbers.
 This text classification documentation from Google might be of interest
 Neural Networks are becoming more popular for document classification. Why is that the case?
+

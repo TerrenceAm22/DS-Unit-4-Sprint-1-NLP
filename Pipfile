@@ -18,6 +18,8 @@ scipy = "*"
 beautifulsoup4 = "*"
 pyLDAvis = "==2.1.2"
 jupyterlab = "*"
+lxml = "*"
+html5lib = "*"
 
 [requires]
 python_version = "3.8"
